@@ -50,26 +50,52 @@ export function capitalizeWords(string) {
   })
 }
 
-export function getPieData(data, valueData) {
+// export function getPieData(data, valueData) {
+//   const chartData = data.reduce((carry, item) => {
+//     const { product, [valueData]: req } = item
+
+//     if (!(product in carry)) {
+//       carry[product] = 0
+//     }
+
+//     carry[product] += parseFloat(req)
+
+//     return carry
+//   }, {})
+
+//   const finalData = [...Object.entries(chartData)]
+//     .sort((a, b) => b[1] - a[1])
+//     .slice(0, 5)
+//     .map((entry) => ({
+//       name: entry[0],
+//       value: entry[1],
+//     }))
+
+//   return finalData
+// }
+
+export function getPieData(data, valueData, options = { sort: "desc", limit: 5 }) {
   const chartData = data.reduce((carry, item) => {
-    const { product, [valueData]: req } = item
+    const { product, [valueData]: val } = item;
 
     if (!(product in carry)) {
-      carry[product] = 0
+      carry[product] = 0;
     }
 
-    carry[product] += parseFloat(req)
+    carry[product] += parseFloat(val);
 
-    return carry
-  }, {})
+    return carry;
+  }, {});
 
-  const finalData = [...Object.entries(chartData)]
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 5)
-    .map((entry) => ({
-      name: entry[0],
-      value: entry[1],
-    }))
+  const sorted = [...Object.entries(chartData)].sort((a, b) =>
+    options.sort === "asc" ? a[1] - b[1] : b[1] - a[1]
+  );
 
-  return finalData
+  const finalData = sorted.slice(0, options.limit).map((entry) => ({
+    name: entry[0],
+    value: entry[1],
+  }));
+
+  return finalData;
 }
+

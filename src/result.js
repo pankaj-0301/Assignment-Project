@@ -10619,4 +10619,6890 @@ export const data = [
     availability_in_mt_: "33454.86",
     id: 1180,
   },
+      {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1181"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1182"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1183"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1184"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1185"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1186"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1187"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "30000",
+        availability_in_mt_: "10041.67",
+        id: "1188"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1189"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "30000",
+        availability_in_mt_: "30812.6",
+        id: "1190"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "114000",
+        availability_in_mt_: "53453.54",
+        id: "1191"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1192"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "150000",
+        availability_in_mt_: "7734.9",
+        id: "1193"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1194"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1195"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1196"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1197"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1198"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1199"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1200"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1201"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4196.25",
+        id: "1202"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1203"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "14497.55",
+        id: "1204"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2167",
+        id: "1205"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1206"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "570.7",
+        id: "1207"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1208"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "10705.35",
+        id: "1209"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1210"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "18811.3",
+        id: "1211"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "15398",
+        id: "1212"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7673.75",
+        id: "1213"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12230.64",
+        id: "1214"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1215"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1216"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1217"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1218"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1219"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1220"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1221"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1222"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2766.1",
+        id: "1223"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1224"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "15029.65",
+        id: "1225"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6039.59",
+        id: "1226"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3858.25",
+        id: "1227"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1996.15",
+        id: "1228"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1229"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "29.35",
+        id: "1230"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1231"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1232"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "21.5",
+        id: "1233"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1234"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "23.4",
+        id: "1235"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1236"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1237"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1238"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1239"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1240"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1241"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1242"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1243"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1244"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1245"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1246"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1247"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1248"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Delhi",
+        requirement_in_mt_: "600",
+        availability_in_mt_: "0",
+        id: "1249"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1250"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "29.2",
+        id: "1251"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1252"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1253"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "102.45",
+        id: "1254"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1255"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "24.5",
+        id: "1256"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1257"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12740.88",
+        id: "1258"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1259"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3897.05",
+        id: "1260"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "20351.52",
+        id: "1261"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6313.85",
+        id: "1262"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4575.19",
+        id: "1263"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1264"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3374.85",
+        id: "1265"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1266"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5654.5",
+        id: "1267"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "157.15",
+        id: "1268"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1269"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1659.3",
+        id: "1270"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1271"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1272"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1273"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1143.8",
+        id: "1274"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "528",
+        id: "1275"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1276"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "44.1",
+        id: "1277"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1278"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1348.8",
+        id: "1279"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1280"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "290.5",
+        id: "1281"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1282"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1283"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1888",
+        id: "1284"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1285"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "48.7",
+        id: "1286"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1287"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1288"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "37.3",
+        id: "1289"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1290"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2753.8",
+        id: "1291"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1292"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Karnataka",
+        requirement_in_mt_: "28000",
+        availability_in_mt_: "21341.18",
+        id: "1293"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Karnataka",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1294"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Karnataka",
+        requirement_in_mt_: "20000",
+        availability_in_mt_: "48341.2",
+        id: "1295"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Karnataka",
+        requirement_in_mt_: "90000",
+        availability_in_mt_: "67608.21",
+        id: "1296"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Karnataka",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "11905.4",
+        id: "1297"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Karnataka",
+        requirement_in_mt_: "100000",
+        availability_in_mt_: "6325.38",
+        id: "1298"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Karnataka",
+        requirement_in_mt_: "6100",
+        availability_in_mt_: "0",
+        id: "1299"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5063.65",
+        id: "1300"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1301"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5587.66",
+        id: "1302"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12171.14",
+        id: "1303"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3156.75",
+        id: "1304"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "30.85",
+        id: "1305"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1306"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1307"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1308"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1309"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1310"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1311"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1312"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1313"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "13150.92",
+        id: "1314"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1315"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "16843.45",
+        id: "1316"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7227.97",
+        id: "1317"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8443.85",
+        id: "1318"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "21121.3",
+        id: "1319"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1320"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Maharastra",
+        requirement_in_mt_: "52500",
+        availability_in_mt_: "2085.22",
+        id: "1321"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1322"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Maharastra",
+        requirement_in_mt_: "30000",
+        availability_in_mt_: "49641.32",
+        id: "1323"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Maharastra",
+        requirement_in_mt_: "150400",
+        availability_in_mt_: "69303.43",
+        id: "1324"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1325"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Maharastra",
+        requirement_in_mt_: "172900",
+        availability_in_mt_: "14257.74",
+        id: "1326"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1327"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1328"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1329"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1330"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1331"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1332"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1333"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1334"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1335"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1336"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1337"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1338"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1339"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1340"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1341"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1342"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1343"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1344"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1345"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1346"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1347"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1348"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1349"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1350"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1351"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1352"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1353"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1354"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1355"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "9010.95",
+        id: "1356"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1357"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "10636.45",
+        id: "1358"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12761.8",
+        id: "1359"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1360"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "9171.6",
+        id: "1361"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1362"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "74",
+        id: "1363"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1364"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "66",
+        id: "1365"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "605.6",
+        id: "1366"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1367"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2",
+        id: "1368"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1369"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1004.85",
+        id: "1370"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1371"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7941",
+        id: "1372"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "223.6",
+        id: "1373"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3355.3",
+        id: "1374"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2331.1",
+        id: "1375"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1376"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1873.31",
+        id: "1377"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1378"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3549.9",
+        id: "1379"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1969.97",
+        id: "1380"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3526.25",
+        id: "1381"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1306.7",
+        id: "1382"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1383"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1384"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1385"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1386"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1387"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1388"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1389"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1390"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12404",
+        id: "1391"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1392"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "11921.5",
+        id: "1393"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "35811.17",
+        id: "1394"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1395"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7770.62",
+        id: "1396"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1397"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3.55",
+        id: "1398"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1399"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1400"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5.65",
+        id: "1401"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1402"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2058.8",
+        id: "1403"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1404"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Telangana",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "5507.25",
+        id: "1405"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1406"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Telangana",
+        requirement_in_mt_: "15000",
+        availability_in_mt_: "14616.19",
+        id: "1407"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Telangana",
+        requirement_in_mt_: "90000",
+        availability_in_mt_: "40015.02",
+        id: "1408"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1409"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Telangana",
+        requirement_in_mt_: "120000",
+        availability_in_mt_: "9559.4",
+        id: "1410"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1411"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "100000",
+        availability_in_mt_: "41712.29",
+        id: "1412"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1413"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "10000",
+        availability_in_mt_: "10934.25",
+        id: "1414"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "50000",
+        availability_in_mt_: "69528.65",
+        id: "1415"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "16125.25",
+        id: "1416"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "750000",
+        availability_in_mt_: "30822.4",
+        id: "1417"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1418"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "122.5",
+        id: "1419"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1420"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "183.75",
+        id: "1421"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4454.9",
+        id: "1422"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1423"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "418.1",
+        id: "1424"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1425"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "DAP",
+        state: "West Bengal",
+        requirement_in_mt_: "50000",
+        availability_in_mt_: "8750.43",
+        id: "1426"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MAP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1427"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "MOP",
+        state: "West Bengal",
+        requirement_in_mt_: "28000",
+        availability_in_mt_: "45825",
+        id: "1428"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "NPK",
+        state: "West Bengal",
+        requirement_in_mt_: "50000",
+        availability_in_mt_: "48361.51",
+        id: "1429"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "TSP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7377.55",
+        id: "1430"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "UREA",
+        state: "West Bengal",
+        requirement_in_mt_: "160000",
+        availability_in_mt_: "4524.81",
+        id: "1431"
+    },
+    {
+        _year: "2014-2015",
+        month: "January",
+        product: "SSP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1432"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1433"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1434"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1435"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1436"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1437"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1438"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1439"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "15307.42",
+        id: "1440"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1441"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "33876.05",
+        id: "1442"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "96000",
+        availability_in_mt_: "67498.69",
+        id: "1443"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1444"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "125000",
+        availability_in_mt_: "7872.39",
+        id: "1445"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1446"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1447"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1448"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1449"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1450"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1451"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1452"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1453"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6183.9",
+        id: "1454"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1455"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "15977.8",
+        id: "1456"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2053.65",
+        id: "1457"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1458"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2599.1",
+        id: "1459"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1460"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "15772.4",
+        id: "1461"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1462"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "27083.05",
+        id: "1463"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "30283.9",
+        id: "1464"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7673.75",
+        id: "1465"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "10419.24",
+        id: "1466"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1467"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1468"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1469"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1470"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1471"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1472"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1473"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1474"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5452.8",
+        id: "1475"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1476"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "23447.3",
+        id: "1477"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "17117.89",
+        id: "1478"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3858.25",
+        id: "1479"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4218.55",
+        id: "1480"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1481"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "23.7",
+        id: "1482"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1483"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1484"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "18.95",
+        id: "1485"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1486"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "13",
+        id: "1487"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1488"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1489"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1490"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1491"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1492"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1493"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1494"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1495"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1496"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1497"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1498"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1499"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1500"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Delhi",
+        requirement_in_mt_: "500",
+        availability_in_mt_: "0",
+        id: "1501"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1502"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "29.05",
+        id: "1503"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1504"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "40",
+        id: "1505"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "87.7",
+        id: "1506"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1507"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3.45",
+        id: "1508"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1509"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "26763.68",
+        id: "1510"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1511"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5083.5",
+        id: "1512"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "54125.34",
+        id: "1513"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6313.85",
+        id: "1514"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3649.59",
+        id: "1515"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1516"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7430.15",
+        id: "1517"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1518"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8232.45",
+        id: "1519"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7835.7",
+        id: "1520"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1521"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1338.05",
+        id: "1522"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1523"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1524"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1525"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1526"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "151.85",
+        id: "1527"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1528"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "110.15",
+        id: "1529"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1530"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1233.65",
+        id: "1531"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1532"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "744",
+        id: "1533"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1534"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1535"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2775.2",
+        id: "1536"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1537"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "48.7",
+        id: "1538"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1539"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1540"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1632.3",
+        id: "1541"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1542"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "33.25",
+        id: "1543"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1544"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Karnataka",
+        requirement_in_mt_: "32000",
+        availability_in_mt_: "21105.88",
+        id: "1545"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Karnataka",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1546"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Karnataka",
+        requirement_in_mt_: "23000",
+        availability_in_mt_: "54179.15",
+        id: "1547"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Karnataka",
+        requirement_in_mt_: "85000",
+        availability_in_mt_: "87593.82",
+        id: "1548"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Karnataka",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "11905.4",
+        id: "1549"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Karnataka",
+        requirement_in_mt_: "80000",
+        availability_in_mt_: "6923.93",
+        id: "1550"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Karnataka",
+        requirement_in_mt_: "9650",
+        availability_in_mt_: "0",
+        id: "1551"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4076.55",
+        id: "1552"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1553"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3831.8",
+        id: "1554"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12202.09",
+        id: "1555"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3156.75",
+        id: "1556"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "199.3",
+        id: "1557"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1558"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1559"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1560"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1561"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1562"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1563"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1564"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1565"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "52324.17",
+        id: "1566"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1567"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "24090.85",
+        id: "1568"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "38373.85",
+        id: "1569"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8443.85",
+        id: "1570"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8017.5",
+        id: "1571"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1572"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Maharastra",
+        requirement_in_mt_: "34900",
+        availability_in_mt_: "46290.37",
+        id: "1573"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1574"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Maharastra",
+        requirement_in_mt_: "19700",
+        availability_in_mt_: "90586.12",
+        id: "1575"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Maharastra",
+        requirement_in_mt_: "100800",
+        availability_in_mt_: "163470.38",
+        id: "1576"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1577"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Maharastra",
+        requirement_in_mt_: "115100",
+        availability_in_mt_: "9412.18",
+        id: "1578"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1579"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1580"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1581"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1582"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1583"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1584"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1585"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1586"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1587"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1588"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1589"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1590"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1591"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1592"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1593"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1594"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1595"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1596"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1597"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1598"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1599"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1600"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1601"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1602"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1603"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1604"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1605"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1606"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1607"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8423.25",
+        id: "1608"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1609"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7903.1",
+        id: "1610"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "17344.8",
+        id: "1611"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1612"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5043.4",
+        id: "1613"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1614"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "74",
+        id: "1615"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1616"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "58",
+        id: "1617"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "535.6",
+        id: "1618"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1619"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "468",
+        id: "1620"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1621"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "15417.95",
+        id: "1622"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1623"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "13189",
+        id: "1624"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "495.85",
+        id: "1625"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3355.3",
+        id: "1626"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1063.75",
+        id: "1627"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1628"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5177.15",
+        id: "1629"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1630"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3496.7",
+        id: "1631"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2568.6",
+        id: "1632"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3526.25",
+        id: "1633"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7101.65",
+        id: "1634"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1635"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1636"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1637"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1638"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1639"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1640"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1641"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1642"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "22088.95",
+        id: "1643"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1644"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "22668.75",
+        id: "1645"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "39589.92",
+        id: "1646"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1647"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5406.43",
+        id: "1648"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1649"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3.55",
+        id: "1650"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1651"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1652"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5.65",
+        id: "1653"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1654"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1655"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1656"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Telangana",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "7430.35",
+        id: "1657"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1658"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Telangana",
+        requirement_in_mt_: "20000",
+        availability_in_mt_: "16026.34",
+        id: "1659"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Telangana",
+        requirement_in_mt_: "80000",
+        availability_in_mt_: "41914.59",
+        id: "1660"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1661"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Telangana",
+        requirement_in_mt_: "140000",
+        availability_in_mt_: "2578.95",
+        id: "1662"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1663"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "50000",
+        availability_in_mt_: "76506.09",
+        id: "1664"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1665"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "10000",
+        availability_in_mt_: "32394.6",
+        id: "1666"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "30000",
+        availability_in_mt_: "97987.9",
+        id: "1667"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "16125.25",
+        id: "1668"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "450000",
+        availability_in_mt_: "34909.85",
+        id: "1669"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1670"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2344.75",
+        id: "1671"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1672"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "161.25",
+        id: "1673"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7067.1",
+        id: "1674"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1675"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1859.5",
+        id: "1676"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1677"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "DAP",
+        state: "West Bengal",
+        requirement_in_mt_: "37500",
+        availability_in_mt_: "3779.28",
+        id: "1678"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MAP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1679"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "MOP",
+        state: "West Bengal",
+        requirement_in_mt_: "21000",
+        availability_in_mt_: "41994.75",
+        id: "1680"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "NPK",
+        state: "West Bengal",
+        requirement_in_mt_: "50000",
+        availability_in_mt_: "57593.06",
+        id: "1681"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "TSP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7377.55",
+        id: "1682"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "UREA",
+        state: "West Bengal",
+        requirement_in_mt_: "104000",
+        availability_in_mt_: "1990.36",
+        id: "1683"
+    },
+    {
+        _year: "2014-2015",
+        month: "February",
+        product: "SSP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1684"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1685"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1686"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1687"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1688"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1689"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1690"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Andaman & Nicobar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1691"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "11051.52",
+        id: "1692"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1693"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "28172.95",
+        id: "1694"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "88000",
+        availability_in_mt_: "68599.54",
+        id: "1695"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1696"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "125000",
+        availability_in_mt_: "5739.7",
+        id: "1697"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Andhra Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1698"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1699"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1700"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1701"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1702"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1703"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1704"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Arunachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1705"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6019.65",
+        id: "1706"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1707"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8865.15",
+        id: "1708"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1567.55",
+        id: "1709"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1710"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3230.5",
+        id: "1711"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Assam",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1712"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "18988.45",
+        id: "1713"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1714"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "20981.75",
+        id: "1715"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "37353.5",
+        id: "1716"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7673.75",
+        id: "1717"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12522.47",
+        id: "1718"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Bihar",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1719"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1720"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1721"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1722"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1723"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1724"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1725"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Chandigarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1726"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "22990.8",
+        id: "1727"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1728"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "17313.3",
+        id: "1729"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "14867.74",
+        id: "1730"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3858.25",
+        id: "1731"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4283.8",
+        id: "1732"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Chattishgarh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1733"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "216.65",
+        id: "1734"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1735"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1736"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "12",
+        id: "1737"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1738"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4.75",
+        id: "1739"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Dadra & Nagar Haveli",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1740"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1741"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1742"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1743"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1744"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1745"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1746"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Daman & Diu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1747"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1748"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1749"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1750"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1751"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1752"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Delhi",
+        requirement_in_mt_: "200",
+        availability_in_mt_: "0",
+        id: "1753"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Delhi",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1754"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "28.8",
+        id: "1755"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1756"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1757"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "17.4",
+        id: "1758"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1759"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0.15",
+        id: "1760"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Goa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1761"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "42801.83",
+        id: "1762"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1763"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6120.05",
+        id: "1764"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "75059.1",
+        id: "1765"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6313.85",
+        id: "1766"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "29161.54",
+        id: "1767"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Gujarat",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1768"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3768.45",
+        id: "1769"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1770"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "9663.5",
+        id: "1771"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8171.15",
+        id: "1772"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1773"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "11626.15",
+        id: "1774"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Harayana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1775"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1776"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1777"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "979.2",
+        id: "1778"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "59.7",
+        id: "1779"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1780"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "105.5",
+        id: "1781"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Himachal Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1782"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4416.7",
+        id: "1783"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1784"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3913.4",
+        id: "1785"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "559.6",
+        id: "1786"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1787"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "611.85",
+        id: "1788"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Jammu & Kashmir",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1789"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "515.3",
+        id: "1790"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1791"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1792"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5525.75",
+        id: "1793"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1794"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "219.4",
+        id: "1795"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Jharkhand",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1796"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Karnataka",
+        requirement_in_mt_: "40000",
+        availability_in_mt_: "25715.08",
+        id: "1797"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Karnataka",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1798"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Karnataka",
+        requirement_in_mt_: "20000",
+        availability_in_mt_: "41580",
+        id: "1799"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Karnataka",
+        requirement_in_mt_: "115000",
+        availability_in_mt_: "95013.02",
+        id: "1800"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Karnataka",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "11905.4",
+        id: "1801"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Karnataka",
+        requirement_in_mt_: "55000",
+        availability_in_mt_: "9414.95",
+        id: "1802"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Karnataka",
+        requirement_in_mt_: "11550",
+        availability_in_mt_: "0",
+        id: "1803"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3572.55",
+        id: "1804"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1805"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3272",
+        id: "1806"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "13392.03",
+        id: "1807"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3156.75",
+        id: "1808"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1503.75",
+        id: "1809"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Kerala",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1810"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1811"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1812"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1813"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1814"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1815"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1816"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Lakshadweep",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1817"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "58261.87",
+        id: "1818"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1819"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "26824.15",
+        id: "1820"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "39462.05",
+        id: "1821"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8443.85",
+        id: "1822"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6663",
+        id: "1823"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Madhya Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1824"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Maharastra",
+        requirement_in_mt_: "34900",
+        availability_in_mt_: "21541.07",
+        id: "1825"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1826"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Maharastra",
+        requirement_in_mt_: "19700",
+        availability_in_mt_: "80069.62",
+        id: "1827"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Maharastra",
+        requirement_in_mt_: "101000",
+        availability_in_mt_: "136552.66",
+        id: "1828"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1829"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Maharastra",
+        requirement_in_mt_: "114100",
+        availability_in_mt_: "14040.24",
+        id: "1830"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1831"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1832"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1833"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1834"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1835"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1836"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1837"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1838"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1839"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1840"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1841"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1842"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1843"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1844"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Megalaya",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1845"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1846"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1847"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1848"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1849"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1850"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1851"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Mizoram",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1852"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1853"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1854"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1855"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1856"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1857"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1858"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Nagaland",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1859"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6599.05",
+        id: "1860"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1861"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "9916.6",
+        id: "1862"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "10774.9",
+        id: "1863"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1864"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "939.05",
+        id: "1865"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Orissa",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1866"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "74",
+        id: "1867"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1868"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "149",
+        id: "1869"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "185.6",
+        id: "1870"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1871"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "118",
+        id: "1872"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Pondicherry",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1873"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6802.2",
+        id: "1874"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1875"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "11854.65",
+        id: "1876"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "984.5",
+        id: "1877"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3355.3",
+        id: "1878"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "1177.26",
+        id: "1879"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Punjab",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1880"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "4171.15",
+        id: "1881"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1882"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3936.7",
+        id: "1883"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3420.9",
+        id: "1884"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3526.25",
+        id: "1885"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "2295.05",
+        id: "1886"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Rajasthan",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1887"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1888"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1889"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1890"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1891"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1892"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1893"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Sikkim",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1894"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "18800.05",
+        id: "1895"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1896"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "15534.25",
+        id: "1897"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "40036.32",
+        id: "1898"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1899"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "6407.13",
+        id: "1900"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Tamil Nadu",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1901"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3.55",
+        id: "1902"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1903"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1904"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "5.65",
+        id: "1905"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1906"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1907"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Tripura",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1908"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Telangana",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "6809.65",
+        id: "1909"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1910"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Telangana",
+        requirement_in_mt_: "20000",
+        availability_in_mt_: "11496.29",
+        id: "1911"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Telangana",
+        requirement_in_mt_: "70000",
+        availability_in_mt_: "43737.1",
+        id: "1912"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1913"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Telangana",
+        requirement_in_mt_: "80000",
+        availability_in_mt_: "7193.45",
+        id: "1914"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Telangana",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1915"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "50000",
+        availability_in_mt_: "95979.68",
+        id: "1916"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1917"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "10000",
+        availability_in_mt_: "28204.2",
+        id: "1918"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "20000",
+        availability_in_mt_: "100369.45",
+        id: "1919"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "16125.25",
+        id: "1920"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "100000",
+        availability_in_mt_: "107283.35",
+        id: "1921"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Uttar Pradesh",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1922"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "3036.5",
+        id: "1923"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1924"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "153.75",
+        id: "1925"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "8290.5",
+        id: "1926"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1927"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "326.15",
+        id: "1928"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "Uttaranchal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1929"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "DAP",
+        state: "West Bengal",
+        requirement_in_mt_: "25000",
+        availability_in_mt_: "5278.06",
+        id: "1930"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MAP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1931"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "MOP",
+        state: "West Bengal",
+        requirement_in_mt_: "14000",
+        availability_in_mt_: "47504.4",
+        id: "1932"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "NPK",
+        state: "West Bengal",
+        requirement_in_mt_: "50000",
+        availability_in_mt_: "64668.48",
+        id: "1933"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "TSP",
+        state: "West Bengal",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "7377.55",
+        id: "1934"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "UREA",
+        state: "West Bengal",
+        requirement_in_mt_: "80000",
+        availability_in_mt_: "1686.18",
+        id: "1935"
+    },
+    {
+        _year: "2014-2015",
+        month: "March",
+        product: "SSP",
+        state: "West Bengal",
+        requirement_in_mt_: "30000",
+        availability_in_mt_: "0",
+        id: "1936"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "TSP",
+        state: "Maharastra",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1937"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "UREA",
+        state: "Maharastra",
+        requirement_in_mt_: "238300",
+        availability_in_mt_: "48106.53",
+        id: "1938"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "DAP",
+        state: "Manipur",
+        requirement_in_mt_: "300",
+        availability_in_mt_: "0",
+        id: "1939"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "MAP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1940"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "MOP",
+        state: "Manipur",
+        requirement_in_mt_: "200",
+        availability_in_mt_: "0",
+        id: "1941"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "NPK",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1942"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "SSP",
+        state: "Manipur",
+        requirement_in_mt_: "100",
+        availability_in_mt_: "0",
+        id: "1943"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "TSP",
+        state: "Manipur",
+        requirement_in_mt_: "0",
+        availability_in_mt_: "0",
+        id: "1944"
+    },
+    {
+        _year: "2014-2015",
+        month: "April",
+        product: "UREA",
+        state: "Manipur",
+        requirement_in_mt_: "3000",
+        availability_in_mt_: "0",
+        id: "1945"
+    }
+
 ]

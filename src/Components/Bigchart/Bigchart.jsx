@@ -38,6 +38,7 @@ function Bigchart({
   ]
 
   const states = [
+    "Telangana",
     "Andaman & Nicobar",
     "Andhra Pradesh",
     "Arunachal Pradesh",
@@ -67,7 +68,7 @@ function Bigchart({
     "Rajasthan",
     "Tamil Nadu",
     "Tripura",
-    "Telangana",
+    
     "Uttar Pradesh",
     "Uttaranchal",
     "West Bengal",

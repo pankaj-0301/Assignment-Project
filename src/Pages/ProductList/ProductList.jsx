@@ -66,8 +66,16 @@ const columns = [
 function ProductList() {
   return (
     <div className="productList">
-      <div>ProductList</div>
-
+<div
+        style={{
+          textAlign: "center",
+          fontWeight: "bold",
+          fontSize: "1.8rem",
+          margin: "20px 0",
+        }}
+      >
+        Product List
+      </div>
       <div className="productListTable">
         <div className="ag-theme-alpine" style={{ width: "100%" }}>
           <AgGridReact
