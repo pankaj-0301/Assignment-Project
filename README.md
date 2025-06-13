@@ -1,93 +1,73 @@
-<div id="top"></div>
+---
 
-<br />
-<div align="center">
-  <h1 style="color: #60AC4A;">
-    Fyllo Interview Task
-  </h1>
+## 📌 Table of Contents
 
-  <p align="center">
-    A Dashboard for chemical fertilizer company
-    <br />
-    <br />
+- [About The Project](#about-the-project)
+  - [Features](#features)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation and Setup](#installation-and-setup)
 
-  </p>
-</div>
+---
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
+## 🧾 About The Project
 
-<!-- ABOUT THE PROJECT -->
+This dashboard application is designed for a chemical fertilizer company to help manage and visualize the supply-chain more effectively. It tracks the **requirement** and **availability** of fertilizers across various states in India over the years.
 
-## About The Project
+With dynamic tables and interactive charts, users can gain insights into fertilizer data trends and make better operational decisions.
 
-The project is to create a dashboard for fyllo, displaying the table, which contains the list of fertilizer and their details like availability, requirements etc. And the analytics which is shown in graph so the user can easily know about the insights.Finally this project contains some dummy placeholders to make it look good eg: Navbar.
+### 🚀 Features
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+- 📊 **Tabular View** of fertilizer data with sorting and filtering
+- 📈 **Graphical Representation** of availability vs requirement per year
+- 🏆 **Top 5 Most Required** fertilizers
+- ⚠️ **Top 5 Least Available** fertilizers
+- ✅ Clean, Responsive UI with basic navigation
 
-### Built With
-
-Here is the list of libraries and frameworks used for the project
+### 🛠️ Built With
 
 - [React.js](https://reactjs.org/)
-- [Ag Grid](https://reactjs.org/)
-- [Re Charts](https://reactjs.org/)
-- [Material UI](https://reactjs.org/)
+- [Ag Grid](https://www.ag-grid.com/)
+- [Recharts](https://recharts.org/)
+- [Material UI](https://mui.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+---
 
-## Getting Started
+## 🚀 Getting Started
 
-To get a local copy up and running follow these simple example steps.
+Follow the steps below to set up the project locally.
 
 ### Prerequisites
 
-To run this project, You’ll need to have
-
-- npm
-  ```sh
-  Node v14.17.6 or greater
-  npm 6.14.15 or greater
-  ```
-
-### Installation and Setup
-
-1. Clone the repo
-   ```sh
-   git clone https://ankitsingh_16@bitbucket.org/ankitsingh_16/fertilizer.git
-   ```
-2. Install packages
-   ```sh
-   npm install or yarn install
-   ```
-3. To start server
-   ```sh
-    npm start or yarn start
-   ```
-4. To visit App
-   ```sh
-   localhost:3000
-   ```
-   <p align="right">(<a href="#top">back to top</a>)</p>
+Make sure you have the following installed:
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### ⚙️ Installation and Setup
+
+#### Clone the repository
+
+```bash
+git clone https://github.com/pankaj-0301/Assignment-Project.git
+cd fertilizer
+
+
+```sh
+Node v14.17.6 or greater
+npm 6.14.15 or greater
+
+
+npm install
+# or
+yarn install
+
+npm start
+# or
+yarn start
+
+
+http://localhost:3000
+
+
