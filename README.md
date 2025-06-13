@@ -1,6 +1,4 @@
----
-
-##  Table of Contents
+## 📌 Table of Contents
 
 - [About The Project](#about-the-project)
   - [Features](#features)
@@ -10,6 +8,7 @@
   - [Installation and Setup](#installation-and-setup)
 
 ---
+
 
 ## 🧾 About The Project
 
